@@ -1,4 +1,4 @@
-# VideoPlayer
+<h1> VideoPlayer </h1>
 
 ## app界面
 <img src="https://github.com/Chost233/VideoPlayer/raw/master/Screenshot_2017-05-21-20-48-59-931_com.pers.myc.v.png" width="500" hegiht="313" align=center />
